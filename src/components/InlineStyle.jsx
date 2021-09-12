@@ -13,7 +13,7 @@ export const InlineStyle = () => {
     color: "#3d84a8",
   };
   const buttonStyle = {
-    backgroundeColor: "abedd8",
+    backgroundColor: "#abedd8",
     border: "none",
     padding: "8px",
     borderRadius: "8px"
